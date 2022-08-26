@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Igor!
+I’m currently working in communication industry. I’m passionate about machine and deep learning.
 
 <!--
-**igor-on-git/igor-on-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IgorLevakov/IgorLevakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+🧰 I mostly use
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="50" height="50"/> 
+
+---
