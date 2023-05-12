@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Igor!
-I’m currently working in communication industry. I’m passionate about machine and deep learning.
+I’m currently working in digital communication field. I’m passionate about machine and deep learning.
 
 <!--
 **IgorLevakov/IgorLevakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
